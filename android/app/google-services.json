@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380924913756",
+    "project_id": "be-my-eyes-cca41",
+    "storage_bucket": "be-my-eyes-cca41.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380924913756:android:a90752d41eb2b19bebde99",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzIYk-4D1Ls1jOSTvKDRPFK64wKOQvaKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
